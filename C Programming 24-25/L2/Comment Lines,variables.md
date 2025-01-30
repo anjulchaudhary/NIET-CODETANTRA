@@ -17,7 +17,7 @@ void main(){<br>
 }
 <br>
 //#Q3<br>
-❏ The tokens num1 and num2 are called keywords.<br>>
+❏ The tokens num1 and num2 are called keywords.<br>
 ✔︎ The token int is called a keyword.<br>
 ✔︎ The token num1 which is a variable name is called an identifier.<br>
 ❏ The open brace {and the close brace} used to open and close the function blocks respectively,are called Operators.<br>
