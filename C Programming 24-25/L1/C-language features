@@ -7,10 +7,10 @@
 
 #Q2
 
-/*#include<stdio.h>
+#include<stdio.h>
 void main(){
     printf("Hello C\n);
-}*/
+}
 
 #Q3
 ❏ C Programming language was developed in the year 1992.
@@ -28,10 +28,10 @@ void main(){
 
 #Q5
 
-/*#include<stdio.h>
+#include<stdio.h>
 void main(){
     printf("I love Mangoes\n);
-}*/
+}
 
 #Q6
 ✔︎ #include is a preprocessor command.
